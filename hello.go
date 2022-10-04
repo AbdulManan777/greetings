@@ -2,7 +2,7 @@ package hello
 
 import "fmt"
 
-func greetings()
+func Greet()
 {
 	fmt.Println("Hi! how are you?")
 }
